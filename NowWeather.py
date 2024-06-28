@@ -26,3 +26,9 @@ api_key = "bf4501c4365c3180664200edc5b43f55"
 # Call the function with the user's inputs
 get_weather(city_name, api_key)
 input()
+
+if __name__ == "__main__":
+	main()
+
+
+
